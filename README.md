@@ -19,9 +19,9 @@ High Level Overview:
 Before starting the project, 3 questions were formulated to be answered by the conclusion of the project. Data was cleaned by extracting useful information from existing columns, removing duplicated rows, filling missing values, changing data types, checking and removing rows with incorrect values. Subsequently, we explored the data and created useful visualization for presentation. Finally, we tested several simple regression model and created a multi variable linear regression model to improve our existing model.
 
 Results: 
-Task 1: The task was solved by comparing the relationships between the variables and price by using a correlation matrix, then linear regression models are used to determine how well the features are used to explain house prices. The R-squared value improved from 0.49 to 0.6 with our multi variable linear regression model, there remains improvements to be made to the model.
-Task 2: The task was completed by analyzing the number of transactions and average price by property grade while evaluating the price range of properties most in demand in King County.
-Task 3: The premium was calculated by simple data extraction from the data given
-Task 4: Based on the insights obtained, recommendations are provided to potential investors to make an informed decision.
+ - Task 1: The task was solved by comparing the relationships between the variables and price by using a correlation matrix, then linear regression models are used to determine how well the features are used to explain house prices. The R-squared value improved from 0.49 to 0.6 with our multi variable linear regression model, there remains improvements to be made to the model.
+- Task 2: The task was completed by analyzing the number of transactions and average price by property grade while evaluating the price range of properties most in demand in King County.
+- Task 3: The premium was calculated by simple data extraction from the data given
+- Task 4: Based on the insights obtained, recommendations are provided to potential investors to make an informed decision.
 
 We hope this notebook has been helpful to provide clear information and valuable insights for the King County housing dataset. Thank you!
