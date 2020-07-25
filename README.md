@@ -1,6 +1,6 @@
 # Module 1: King County Housing
 
-... Add visualizations
+... Add visualizations...
 
 Executive Summary: Analyzing gathered data to create valuable information and recommendations for potential investors in the real estate market in Seattle.
 
